@@ -1431,11 +1431,11 @@ Below are screenshots showing how the test environment and scanner behave:
 
 Step	Screenshot
 #### 1. Creating the Test Environment
-   ![Creating the Test Environment](READMI/1.png)
+   ![Creating the Test Environment](README/1.png)
 #### 2. Running the Scanner in Test Mode (x86_64 simulation)
-   ![Running the Scanner in Test Mode](READMI/2.png)
+   ![Running the Scanner in Test Mode](README/2.png)
 #### 3. Example of a Generated Report
-![Example of a Generated Report](READMI/3.png)
+![Example of a Generated Report](README/3.png)
 Each simulation produces a detailed analysis without changing your system and generates a report like it would in real conditions.
 
 ## Future Improvements
